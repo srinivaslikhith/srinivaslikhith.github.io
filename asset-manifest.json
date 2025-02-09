@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.ab80de1d.chunk.css",
-    "main.js": "/static/js/main.f7ecf484.chunk.js",
-    "main.js.map": "/static/js/main.f7ecf484.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.8dbe58d7.js",
-    "runtime~main.js.map": "/static/js/runtime~main.8dbe58d7.js.map",
-    "static/js/2.884bb21b.chunk.js": "/static/js/2.884bb21b.chunk.js",
-    "static/js/2.884bb21b.chunk.js.map": "/static/js/2.884bb21b.chunk.js.map",
-    "static/js/3.8b257cf5.chunk.js": "/static/js/3.8b257cf5.chunk.js",
-    "static/js/3.8b257cf5.chunk.js.map": "/static/js/3.8b257cf5.chunk.js.map",
+    "main.js": "/static/js/main.3b747a6e.chunk.js",
+    "main.js.map": "/static/js/main.3b747a6e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c26ef6e2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c26ef6e2.js.map",
+    "static/js/2.53aa0212.chunk.js": "/static/js/2.53aa0212.chunk.js",
+    "static/js/2.53aa0212.chunk.js.map": "/static/js/2.53aa0212.chunk.js.map",
+    "static/js/3.28e1d98b.chunk.js": "/static/js/3.28e1d98b.chunk.js",
+    "static/js/3.28e1d98b.chunk.js.map": "/static/js/3.28e1d98b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1ea53e3e394b288f32994984f2b60f95.js": "/precache-manifest.1ea53e3e394b288f32994984f2b60f95.js",
+    "precache-manifest.6986e69079aba232ee6696fc46ecf792.js": "/precache-manifest.6986e69079aba232ee6696fc46ecf792.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ab80de1d.chunk.css.map": "/static/css/main.ab80de1d.chunk.css.map",
+    "static/js/2.53aa0212.chunk.js.LICENSE.txt": "/static/js/2.53aa0212.chunk.js.LICENSE.txt",
     "static/media/aws.svg": "/static/media/aws.6d7f43b1.svg",
     "static/media/bank.webp": "/static/media/bank.f5f0c5e2.webp",
     "static/media/bchain.webp": "/static/media/bchain.b79f1aa7.webp",
@@ -35,5 +36,11 @@
     "static/media/redis.svg": "/static/media/redis.86146215.svg",
     "static/media/springboot.svg": "/static/media/springboot.c8573182.svg",
     "static/media/sql.svg": "/static/media/sql.37dec9b7.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c26ef6e2.js",
+    "static/js/2.53aa0212.chunk.js",
+    "static/css/main.ab80de1d.chunk.css",
+    "static/js/main.3b747a6e.chunk.js"
+  ]
 }
