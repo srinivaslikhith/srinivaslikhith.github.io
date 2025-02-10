@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6d4db1a8.chunk.css",
-    "main.js": "/static/js/main.0e13cac2.chunk.js",
-    "main.js.map": "/static/js/main.0e13cac2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ac6f3553.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ac6f3553.js.map",
-    "static/js/2.5527f300.chunk.js": "/static/js/2.5527f300.chunk.js",
-    "static/js/2.5527f300.chunk.js.map": "/static/js/2.5527f300.chunk.js.map",
-    "static/js/3.13599068.chunk.js": "/static/js/3.13599068.chunk.js",
-    "static/js/3.13599068.chunk.js.map": "/static/js/3.13599068.chunk.js.map",
+    "main.css": "/static/css/main.1da36966.chunk.css",
+    "main.js": "/static/js/main.b6c599f0.chunk.js",
+    "main.js.map": "/static/js/main.b6c599f0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f83572ba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f83572ba.js.map",
+    "static/js/2.53aa0212.chunk.js": "/static/js/2.53aa0212.chunk.js",
+    "static/js/2.53aa0212.chunk.js.map": "/static/js/2.53aa0212.chunk.js.map",
+    "static/js/3.9db498ef.chunk.js": "/static/js/3.9db498ef.chunk.js",
+    "static/js/3.9db498ef.chunk.js.map": "/static/js/3.9db498ef.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.215fe3bb8b95f8649c4452e0c7c36d95.js": "/precache-manifest.215fe3bb8b95f8649c4452e0c7c36d95.js",
+    "precache-manifest.be428a508eb07de992becab75abdad8f.js": "/precache-manifest.be428a508eb07de992becab75abdad8f.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.6d4db1a8.chunk.css.map": "/static/css/main.6d4db1a8.chunk.css.map",
-    "static/js/2.5527f300.chunk.js.LICENSE.txt": "/static/js/2.5527f300.chunk.js.LICENSE.txt",
+    "static/css/main.1da36966.chunk.css.map": "/static/css/main.1da36966.chunk.css.map",
+    "static/js/2.53aa0212.chunk.js.LICENSE.txt": "/static/js/2.53aa0212.chunk.js.LICENSE.txt",
     "static/media/aws.svg": "/static/media/aws.6d7f43b1.svg",
     "static/media/bank.webp": "/static/media/bank.f5f0c5e2.webp",
     "static/media/bchain.webp": "/static/media/bchain.b79f1aa7.webp",
@@ -38,9 +38,9 @@
     "static/media/sql.svg": "/static/media/sql.37dec9b7.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac6f3553.js",
-    "static/js/2.5527f300.chunk.js",
-    "static/css/main.6d4db1a8.chunk.css",
-    "static/js/main.0e13cac2.chunk.js"
+    "static/js/runtime-main.f83572ba.js",
+    "static/js/2.53aa0212.chunk.js",
+    "static/css/main.1da36966.chunk.css",
+    "static/js/main.b6c599f0.chunk.js"
   ]
 }
